@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[veteranscope]]></title>
         <description><![CDATA[veteranscope]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/veteranscope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 05:00:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 05:08:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/veteranscope/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>related</p>]]></description>
+            <link>https://thegrid.ai/veteranscope/related/index.html</link>
+            <guid isPermaLink="false">a997b363-c4bf-4c93-baa1-0f78628005d1</guid>
+            <pubDate>Thu, 28 Apr 2016 05:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Veterans seek change from VA clinics, hospitals]]></title>
             <description><![CDATA[<article><h1>Veterans seek change from VA clinics, hospitals</h1><p>Wait times at VA clinics and hospitals are much to long. Despite documentation of this problem, and others, there still are no concrete solutions to fix them. According to the Department of Veterans Affairs' most recent report, the wait times for the VA clinic in Colorado Springs were the highest in the state for the number of veterans they treat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/045ee2e4cf90a8fb08a4d601e5c020c8f9be3106.jpg"></article>]]></description>
