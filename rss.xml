@@ -4,7 +4,7 @@
         <description><![CDATA[veteranscope]]></description>
         <link>https://thegrid.ai/veteranscope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 04:53:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/veteranscope/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Articles]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.disabledveterans.org/articles/</link>
             <guid isPermaLink="false">e464d4d7-009a-4507-a78c-7f884fa611c3</guid>
             <pubDate>Thu, 28 Apr 2016 04:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://3mc77e18jo7n1uk8m71my8ml.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/TBI-Evaluations.jpg">]]></description>
-            <link>https://thegrid.ai/veteranscope/485663bd-54d6-41cb-b09c-11aa7419effa/index.html</link>
-            <guid isPermaLink="false">485663bd-54d6-41cb-b09c-11aa7419effa</guid>
-            <pubDate>Thu, 28 Apr 2016 04:43:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
