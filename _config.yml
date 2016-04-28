@@ -1,7 +1,7 @@
 name: veteranscope
 favicon: null
-layout_spectrum: 0.36033
-typography_spectrum: 0.8381708378437907
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
