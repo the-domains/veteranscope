@@ -4,8 +4,15 @@
         <description><![CDATA[veteranscope]]></description>
         <link>https://thegrid.ai/veteranscope/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 05:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 05:09:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/veteranscope/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>College</p>]]></description>
+            <link>https://thegrid.ai/veteranscope/college/index.html</link>
+            <guid isPermaLink="false">6ec72cfb-ead1-4638-896a-877e09a4b952</guid>
+            <pubDate>Thu, 28 Apr 2016 05:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>related</p>]]></description>
